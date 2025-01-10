@@ -1,0 +1,5 @@
+ID Name Salary Country
+1 Ritwik 20000  India
+2 Liza   500000  USA
+3 Aman    45000  India
+4 An[A[C[C[C[C[C[[[B[D[D[D[D[D[D[Cuj 2000 India

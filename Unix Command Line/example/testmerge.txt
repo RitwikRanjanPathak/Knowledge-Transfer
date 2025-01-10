@@ -1,0 +1,4 @@
+I love Programming
+I love Development in UNIX
+This is a test file
+tests are logical
